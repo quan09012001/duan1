@@ -399,3 +399,11 @@ footer .menu-ft1 {
     font-weight: bold;
     margin: 10px 0;
 }
+
+.titleh3 {
+    background-color: var(--button-color);
+    margin-top: 50px;
+    padding: 5px;
+    border-radius: 5px;
+    color: var(--color-text);
+}

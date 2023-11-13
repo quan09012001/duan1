@@ -1,4 +1,4 @@
-<h3 class="product-name">Top 10 yêu thích</h3>
+<h3 class="titleh3">Top 10 yêu thích</h3>
 <?php foreach ($top10 as $top10) :
     extract($top10);
     if ($don_gia > 0) {

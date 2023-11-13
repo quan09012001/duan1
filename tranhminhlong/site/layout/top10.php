@@ -1,4 +1,4 @@
-<h3 class="product-name">Top 10 sản phẩm bán chạy</h3>
+<h3 class="titleh3">Top 10 sản phẩm bán chạy</h3>
 <?php foreach ($hh_top10 as $hh_top10) :
     extract($hh_top10);
     if ($don_gia > 0) {

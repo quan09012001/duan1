@@ -1,4 +1,4 @@
-<h3 class="product-name">Sản phẩm đặc biệt</h3>
+<h3 class="titleh3">Sản phẩm đặc biệt</h3>
 <?php foreach ($hh_db as $hh_db) :
     extract($hh_db);
     if ($don_gia > 0) {

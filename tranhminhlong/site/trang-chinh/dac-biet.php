@@ -1,4 +1,4 @@
-<h3>Hàng hoá đặc biệt</h3>
+<h3 class="titleh3">Hàng hoá đặc biệt</h3>
 <?php foreach ($items as $item) :
     extract($item);
     if ($don_gia > 0) {

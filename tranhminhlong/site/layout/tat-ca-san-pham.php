@@ -1,4 +1,4 @@
-<h3>Tất cả sản phẩm</h3>
+<h3 class="titleh3">Tất cả sản phẩm</h3>
 <?php foreach ($items as $item) :
     extract($item);
     if ($don_gia > 0) {
